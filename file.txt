@@ -1,2 +1,2 @@
-echo "hello"
-i
+
+echo "ssh key"
